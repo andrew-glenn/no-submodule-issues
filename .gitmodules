@@ -1,0 +1,6 @@
+[submodule "tmux-menus"]
+	path = tmux-menus
+	url = https://github.com/andrew-glenn/tmux-menus.git
+[submodule "aws-lambda-go"]
+	path = aws-lambda-go
+	url = https://github.com/aws/aws-lambda-go.git
